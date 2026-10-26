@@ -4,7 +4,7 @@
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-> 🎓 Projekt open source dla koła naukowego **KN Solvro** (Politechnika Wrocławska), rozwijany we współpracy z [Janem Wojtysiakiem](https://github.com/JanWojtysiak). Wcześniej pod nazwą **Wakajki**.
+> 🎓 Projekt open source dla koła naukowego **KN Solvro** (Politechnika Wrocławska), rozwijany we współpracy z [Jan Wojtysiak](https://github.com/JanWojtysiak). Wcześniej pod nazwą **Wakajki**.
 
 Aplikacja webowa, która pomaga uczestnikom Wakacyjnego Wyzwania KN Solvro znaleźć zespół do wspólnego projektu. Użytkownicy logują się przez Discorda, zakładają projekty i dołączają do projektów innych osób.
 
